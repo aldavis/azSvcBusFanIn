@@ -1,5 +1,5 @@
-# cobra
-Example of using the "Fan-In" pattern with Azure Service Bus
+
+# Example of using the "Fan-In" pattern with Azure Service Bus
 
 ## Purpose
 This example shows how to set up a "Fan-In" pattern by using Auto Forward on subscriptions.  
